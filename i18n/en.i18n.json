@@ -1,0 +1,62 @@
+{
+	"yearsago_plural":"__count__ years ago",
+	"yearsago":"1 year ago",
+
+	"yearsahead_plural":"in __count__ years",
+	"yearsahead":"in 1 year",
+
+	"monthsago_plural":"__count__ months ago",
+	"monthsago":"1 month ago",
+
+	"monthsahead_plural":"in __count__ months",
+	"monthsahead":"in 1 month",
+
+	"weeksago_plural":"__count__ weeks ago",
+	"weeksago":"1 week ago",
+
+	"weeksahead_plural":"in __count__ weeks",
+	"weeksahead":"in 1 week",
+
+	"daysago_plural":"__count__ days ago",
+	"daysago":"1 day ago",
+
+	"daysago-idiomatic":"yesterday",
+
+	"daysahead_plural":"in __count__ days",
+	"daysahead":"in 1 day",
+
+	"daysahead-idiomatic":"tomorrow",
+
+	"hoursago_plural":"__count__ hours ago",
+	"hoursago":"1 hour ago",
+
+	"hoursahead_plural":"in __count__ hours",
+	"hoursahead":"in 1 hour",
+
+	"minutesago_plural":"__count__ minutes ago",
+	"minutesago":"1 minute ago",
+
+	"minutesahead_plural":"in __count__ minutes",
+	"minutesahead":"in 1 minute",
+
+	"secondsago_plural":"__count__ seconds ago",
+	"secondsago":"1 second ago",
+
+	"secondsago-idiomatic":"a few seconds ago",
+
+	"secondsahead_plural":"in __count__ seconds",
+	"secondsahead":"in 1 second",
+
+	"secondsahead-idiomatic":"in a few seconds",
+
+	"now":"now",
+
+
+	"thisyear":"this year",
+	"thismonth":"this month",
+	"thisweek":"this week",
+	"today":"today",
+	"thishour":"less than one hour",
+	"thisminute":"less than one minute"
+
+}

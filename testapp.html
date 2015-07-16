@@ -1,0 +1,17 @@
+<head>
+  <title>testapp</title>
+</head>
+
+<body>
+  {{> hello}}
+</body>
+
+<template name="hello">
+	<input id="dateInput" type="text" placeholder="Introduce date with yyyy-mm-dd format"/>
+	<p> Without idiomatic:</p>
+	<p>Key: {{key}}</p>
+	<p>Translated: {{translation}}</p>
+	<p> With idiomatic:</p>
+	<p>Key: {{key_idiomatic}}</p>
+	<p>Translated: {{translation_idiomatic}}</p>
+</template>
